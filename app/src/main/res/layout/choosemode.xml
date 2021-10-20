@@ -29,6 +29,7 @@
         android:layout_height="90dp"
         android:background="#000000"
         android:backgroundTint="#000000"
+        android:onClick="Onclick"
         android:text="Single Player"
         android:textColor="#00BCD4"
         android:textSize="24sp"

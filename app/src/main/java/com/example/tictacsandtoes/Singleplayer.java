@@ -4,11 +4,11 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class singleplayergame extends AppCompatActivity {
+public class Singleplayer extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_singleplayergame);
+        setContentView(R.layout.activity_singleplayer);
     }
 }
